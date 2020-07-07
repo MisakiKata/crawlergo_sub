@@ -40,7 +40,7 @@ flask run
 0 0 */7 * * cd /home/test/crawlergo_sub && /home/test/anaconda3/bin/python /home/test/crawlergo_sub/launcher_new.py >> /var/log/crawlergo.log
 ```
 
-在subdomain文件夹下，domain是根域名文件，需要先配置根域名。内部都是配置的五个标签页，如果情况适合，可以适当添加。
+domain是根域名文件，需要先配置根域名。内部都是配置的五个标签页，如果情况适合，可以适当添加。
 
 #### 第三方模块
 
